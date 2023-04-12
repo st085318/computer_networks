@@ -43,4 +43,4 @@
 ## 2. Wireshark: Работа с Time-Sequence-Graph (Stevens)
 
 1. Используйте инструмент построения графиков Time-Sequence-Graph (Stevens), чтобы представить изменение порядковых номеров на временной шкале для сегментов, отправленных от клиента серверу gaia.cs.umass.edu.
-    ![](./images/window_size.png)
+    ![](./images/WIRESHARK_STEVENS.png)
