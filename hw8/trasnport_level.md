@@ -3,7 +3,7 @@
 ## Задачи
 1.
     >$$T_W(RTT) = \alpha RTT, \alpha > 0$$
-    >$$V_W(RTT) = \frac{3}{4}\frac{W}{RTT}, \text{где V_W - средняя пропускная способность}$$
+    >$$V_W(RTT) = \frac{3}{4}\frac{W}{RTT}, \text{где $V_W$ - средняя пропускная способность}$$
     >$$T_W(V) = \alpha \frac{3}{4}\frac{W}{V}$$
 
 3.
